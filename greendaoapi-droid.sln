@@ -1,0 +1,28 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Naxam.GreenDaoApi.Droid", "Naxam.GreenDaoApi.Droid\Naxam.GreenDaoApi.Droid.csproj", "{F6889EF4-F614-4023-885C-0DFC5D35E3F1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "demo", "demo", "{F90BAF8D-E8B1-4621-A1CE-6521D7F8F7E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GreenDaoApiQs", "demo\GreenDaoApiQs\GreenDaoApiQs.csproj", "{3922993A-BD89-4C10-B4B4-F8905BC0311C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6889EF4-F614-4023-885C-0DFC5D35E3F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6889EF4-F614-4023-885C-0DFC5D35E3F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6889EF4-F614-4023-885C-0DFC5D35E3F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6889EF4-F614-4023-885C-0DFC5D35E3F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3922993A-BD89-4C10-B4B4-F8905BC0311C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3922993A-BD89-4C10-B4B4-F8905BC0311C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3922993A-BD89-4C10-B4B4-F8905BC0311C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3922993A-BD89-4C10-B4B4-F8905BC0311C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{3922993A-BD89-4C10-B4B4-F8905BC0311C} = {F90BAF8D-E8B1-4621-A1CE-6521D7F8F7E2}
+	EndGlobalSection
+EndGlobal
